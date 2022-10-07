@@ -1,4 +1,5 @@
-aws_account_id = "<id>"
+aws_account_id = AWS_ACCESS_KEY_ID
+aws_secret_access_key = AWS_SECRET_ACCESS_KEY
 aws_region = "eu-west-1"
 
 vpc_cidr = "10.60.0.0/16"
